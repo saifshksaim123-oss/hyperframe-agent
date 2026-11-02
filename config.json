@@ -1,0 +1,6 @@
+{
+  "name": "hyperframe-agent",
+  "version": "1.0.0",
+  "description": "VS Code Copilot Video Agent",
+  "features": ["video-generation", "browser-automation"]
+}
